@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "definition.C": "cpp",
+        "traversing.C": "cpp",
+        "MIn.C": "cpp",
+        "Min2.C": "cpp",
+        "Max.C": "cpp",
+        "Insertion.C": "cpp",
+        "Deletion.C": "cpp",
+        "LinearSearch.C": "cpp"
+    }
+}
