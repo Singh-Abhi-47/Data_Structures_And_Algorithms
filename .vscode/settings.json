@@ -8,6 +8,9 @@
         "Insertion.C": "cpp",
         "Deletion.C": "cpp",
         "LinearSearch.C": "cpp",
-        "BinarySearch.C": "cpp"
+        "BinarySearch.C": "cpp",
+        "LinkedList.C": "cpp",
+        "InsertioninList.C": "cpp",
+        "Searching.C": "cpp"
     }
 }
