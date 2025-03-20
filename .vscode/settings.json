@@ -11,6 +11,8 @@
         "BinarySearch.C": "cpp",
         "LinkedList.C": "cpp",
         "InsertioninList.C": "cpp",
-        "Searching.C": "cpp"
+        "Searching.C": "cpp",
+        "LowerTriangularMatrix.C": "cpp",
+        "UpperTriangluarMatrix.C": "cpp"
     }
 }
