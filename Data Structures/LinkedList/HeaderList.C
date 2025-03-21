@@ -12,6 +12,17 @@ void AddNode(int value)
     count++;
 }
 
+void Traversing()
+{
+    Node *p = start->link;
+    while (p != NULL)
+    {
+        printf("%d-->", p->data);
+        p = p->link;
+    }
+    printf("null\n");
+}
+
 int main()
 {
     system("cls");
@@ -26,4 +37,9 @@ int main()
     InsertAtBeginning(&start, count);
 
     PrintList(start);
+
+    printf("\n");
+
+    printf("Traversing the header list: ");
+    Traversing();
 }
