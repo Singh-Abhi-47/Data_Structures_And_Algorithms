@@ -14,4 +14,6 @@ int main()
     b_Insert(&start, 9, 0, 0);
 
     b_PrintPoly(start);
+
+    b_FreePoly(start);
 }

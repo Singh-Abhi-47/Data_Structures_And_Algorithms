@@ -42,4 +42,6 @@ int main()
 
     printf("Traversing the header list: ");
     Traversing();
+
+    FreeList(start);
 }
