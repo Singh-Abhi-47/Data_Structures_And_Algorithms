@@ -17,6 +17,7 @@
         "UnivariatePolynomial.C": "cpp",
         "UnivariatePoly.C": "cpp",
         "BivariatePoly.C": "cpp",
-        "tempCodeRunnerFile.C": "cpp"
+        "tempCodeRunnerFile.C": "cpp",
+        "HeaderList.C": "cpp"
     }
 }

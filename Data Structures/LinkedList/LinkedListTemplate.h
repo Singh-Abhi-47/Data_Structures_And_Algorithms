@@ -32,6 +32,19 @@ void InsertAtEnd(Node **start, int value)
     p->link = newNode;
 }
 
+void InsertAtBeginning(Node **start, int value)
+{
+    Node *newNode = CreateNode(value);
+    if (*start == NULL)
+    {
+        *start = newNode;
+        return;
+    }
+    Node *p = *start;
+    newNode->link = *start;
+    *start = newNode;
+}
+
 void PrintList(Node *start)
 {
     Node *p = start;
