@@ -13,6 +13,10 @@
         "InsertioninList.C": "cpp",
         "Searching.C": "cpp",
         "LowerTriangularMatrix.C": "cpp",
-        "UpperTriangluarMatrix.C": "cpp"
+        "UpperTriangluarMatrix.C": "cpp",
+        "UnivariatePolynomial.C": "cpp",
+        "UnivariatePoly.C": "cpp",
+        "BivariatePoly.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp"
     }
 }
