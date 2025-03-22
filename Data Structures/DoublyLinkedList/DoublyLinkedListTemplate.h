@@ -49,6 +49,38 @@ void InsertAtBeginning(d_node **start, int value)
     *start = newNode;
 }
 
+void DeleteNode(d_node **start, int value)
+{
+    d_node *p = *start;
+    if (start == NULL)
+    {
+        printf("Empty List");
+        return;
+    }
+    if (p->data == value)
+    {
+        *start = p->next; // Move head to next node
+        if (*start)       // If new head is not NULL
+            (*start)->previous = NULL;
+        free(p); // Free the old head
+        return;
+    }
+
+    while (p)
+    {
+        if (p->data == value)
+        {
+            p->previous->next = p->next;
+            p->next->previous = p->previous;
+            free(p);
+            return;
+        }
+        p = p->next;
+    }
+
+    printf("Element not found!");
+}
+
 void ForwardPrintList(d_node *start)
 {
 
