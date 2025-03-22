@@ -20,6 +20,8 @@
         "tempCodeRunnerFile.C": "cpp",
         "HeaderList.C": "cpp",
         "DoublyLinkedList.C": "cpp",
-        "CircularList.C": "cpp"
+        "CircularList.C": "cpp",
+        "QueueByArray.C": "cpp",
+        "QueueByLinkedList.C": "cpp"
     }
 }
