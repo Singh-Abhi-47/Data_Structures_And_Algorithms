@@ -19,6 +19,7 @@
         "BivariatePoly.C": "cpp",
         "tempCodeRunnerFile.C": "cpp",
         "HeaderList.C": "cpp",
-        "DoublyLinkedList.C": "cpp"
+        "DoublyLinkedList.C": "cpp",
+        "CircularList.C": "cpp"
     }
 }
