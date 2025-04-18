@@ -22,6 +22,9 @@
         "DoublyLinkedList.C": "cpp",
         "CircularList.C": "cpp",
         "QueueByArray.C": "cpp",
-        "QueueByLinkedList.C": "cpp"
+        "QueueByLinkedList.C": "cpp",
+        "Template.C": "cpp",
+        "PriorityQueueUsingArray.C": "cpp",
+        "StackUsingArray.C": "cpp"
     }
 }
