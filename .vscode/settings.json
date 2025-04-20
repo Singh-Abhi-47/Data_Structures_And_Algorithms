@@ -25,6 +25,7 @@
         "QueueByLinkedList.C": "cpp",
         "Template.C": "cpp",
         "PriorityQueueUsingArray.C": "cpp",
-        "StackUsingArray.C": "cpp"
+        "StackUsingArray.C": "cpp",
+        "QuickSort.C": "cpp"
     }
 }
