@@ -26,6 +26,7 @@
         "Template.C": "cpp",
         "PriorityQueueUsingArray.C": "cpp",
         "StackUsingArray.C": "cpp",
-        "QuickSort.C": "cpp"
+        "QuickSort.C": "cpp",
+        "MergeSort.C": "cpp"
     }
 }
