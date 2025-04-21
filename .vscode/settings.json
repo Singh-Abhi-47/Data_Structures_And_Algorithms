@@ -28,6 +28,7 @@
         "StackUsingArray.C": "cpp",
         "QuickSort.C": "cpp",
         "MergeSort.C": "cpp",
-        "BubbleSort.C": "cpp"
+        "BubbleSort.C": "cpp",
+        "InsertionSort.C": "cpp"
     }
 }
