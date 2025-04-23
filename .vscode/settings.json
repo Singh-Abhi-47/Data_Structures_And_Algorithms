@@ -30,6 +30,7 @@
         "MergeSort.C": "cpp",
         "BubbleSort.C": "cpp",
         "InsertionSort.C": "cpp",
-        "StackUsingLinkedList.C": "cpp"
+        "StackUsingLinkedList.C": "cpp",
+        "BinaryTree.C": "cpp"
     }
 }
